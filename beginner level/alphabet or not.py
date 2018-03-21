@@ -3,4 +3,4 @@ b=alpha.lower()
 if('a'<=b<='z'):
 	print("the input is alphabet")
 else:
-	print("invalid input")
+	print("the input is not alphabet")
